@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#view {
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 25px;
+}
+#text {
+  background-color: cornflowerblue;
+  border-color: blue;
+}
+#list {
+  margin-left: 30%;
+}
